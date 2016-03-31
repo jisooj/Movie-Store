@@ -1,6 +1,4 @@
 /*
-	CSE 414 
-	Homework 7
 	Jisoo Jung
 	
 	Query contains approximately 20 different queries to manage 

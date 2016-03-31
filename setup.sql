@@ -1,6 +1,4 @@
--- CSE 414
 -- Jisoo Jung
--- Homework 7
 
 -- ORDER matters: Customer cannot reference Plans if Plans hasn't been
 -- created beforehand. Should create in this order: E2->E1->E3
